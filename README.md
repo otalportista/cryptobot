@@ -73,6 +73,48 @@ For example prefix are equal to **!**
 
 `!start`
 
+* To stop bot
+
+`!stop`
+
+* To stop bot
+
+`!stop`
+
+* To add coin
+
+`!add <symbol>`
+
+* To delete coin
+
+`!delcoin <coin name>`
+
+* To list all coins in system
+
+`!coinlist`
+
+* To add alert
+
+`!addalert <up/down> <symbol> <price>`
+>Up - If price of alert is lower or equal than current price
+>Down - If price of alert is higher or lower than current price
+
+*To delete alert
+
+`!delalert <i>`
+
+* To list all alerts
+
+`!alertlist`
+
+* To change prefix
+
+`!prefix <new prefix>`
+
+* To get current version
+
+`!version`
+
 ## Suggestions
 [⌛] -> Add command to get list of exchanges\
 [⌛] -> Get charts from tradingview
