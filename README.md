@@ -96,7 +96,7 @@ For example prefix are equal to **!**
 * To add alert
 
 `!addalert <up/down> <symbol> <price>`
->Up - If price of alert is lower or equal than current price
+>Up - If price of alert is lower or equal than current price<br>
 >Down - If price of alert is higher or lower than current price
 
 *To delete alert
