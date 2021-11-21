@@ -64,8 +64,8 @@
 [✔️] -> Create function when price hits alert user\
 [✔️] -> Add command to list all alerts\
 [✔️] -> Add command to delete alert\
-[✔️] -> Add type of price in command addalert
-        
+[✔️] -> Add type of price in command addalert (up/down)\
+[✔️] -> Update information in command help
 
 ## Usage Commands
 For example prefix are equal to **!**
