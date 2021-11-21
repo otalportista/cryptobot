@@ -77,6 +77,10 @@ For example prefix are equal to **!**
 
 `!stop`
 
+* To list all coins in system
+
+`!coinlist`
+
 * To add coin
 
 `!add <symbol>`
@@ -84,10 +88,11 @@ For example prefix are equal to **!**
 * To delete coin
 
 `!delcoin <coin name>`
+> To get coin name you need to list all coins
 
-* To list all coins in system
+* To list all alerts
 
-`!coinlist`
+`!alertlist`
 
 * To add alert
 
@@ -97,11 +102,8 @@ For example prefix are equal to **!**
 
 *To delete alert
 
-`!delalert <i>`
-
-* To list all alerts
-
-`!alertlist`
+`!delalert <id>`
+> To get id you need to list all alerts
 
 * To change prefix
 
