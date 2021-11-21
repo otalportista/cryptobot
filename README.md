@@ -100,7 +100,7 @@ For example prefix are equal to **!**
 >Up - If price of alert is lower or equal than current price<br>
 >Down - If price of alert is higher or lower than current price
 
-*To delete alert
+* To delete alert
 
 `!delalert <id>`
 > To get id you need to list all alerts
