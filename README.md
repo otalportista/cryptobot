@@ -69,7 +69,7 @@
 
 ## Usage
 For example prefix are equal to **!**
-### To start bot
+#### To start bot
 >!start
 
 ## Suggestions
