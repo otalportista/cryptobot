@@ -138,4 +138,4 @@ Cryptobot is licensed under the [MIT license](https://github.com/otalportista/cr
 
 This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
 
-© 2021 OTalPortista
+© 2021 OTalPortista & C0ffeeL0ver
