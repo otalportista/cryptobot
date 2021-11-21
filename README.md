@@ -67,10 +67,10 @@
 [✔️] -> Add type of price in command addalert
         
 
-## Usage
+## Usage Commands
 For example prefix are equal to **!**
-### To start bot
->!start
+* To start bot
+`!start`
 
 ## Suggestions
 [⌛] -> Add command to get list of exchanges\
@@ -91,5 +91,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+Cryptobot is licensed under the [MIT license](https://github.com/otalportista/cryptobot/blob/main/LICENSE).
+
+This is not an official Discord product. It is not affiliated with nor endorsed by Discord Inc.
+
+© 2021 OTalPortista
 
