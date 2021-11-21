@@ -68,9 +68,9 @@
         
 
 ## Usage
-For example prefix are equal to **>**
+For example prefix are equal to **!**
 ### To start bot
->>start
+>!start
 
 ## Suggestions
 [⌛] -> Add command to get list of exchanges\
