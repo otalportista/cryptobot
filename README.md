@@ -66,6 +66,7 @@
 [✔️] -> Add command to delete alert\
 [✔️] -> Add type of price in command addalert (up/down)\
 [✔️] -> Update information in command help
+[✔️] -> Solved bug on alerts
 
 ## Usage Commands
 For example prefix are equal to **!**
