@@ -4,10 +4,12 @@
 * [❌] -> Remove integration with local api with separated webserver
 * [✔️] -> Integrated web server with bot
 * [✔️] -> Integration with api in server integred with bot
+* [✔️] -> Updated command to get chart with timestamps
+* [✔️] -> Prevent get one chart if have one pending to get
+
 
 
 ## 1.0.3 (2021-11-20)
-
 
 
 * [✔️] -> Add trend list in coingecko internal module
