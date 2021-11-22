@@ -9,7 +9,6 @@
 ## 🆕 Updates
 You can check all updates of bot clicking [here](https://github.com/otalportista/cryptobot/blob/main/CHANGELOG.md)
 
-
 ## 🚀 Usage
 For example prefix are equal to **!**
 * To start bot
@@ -61,13 +60,11 @@ For example prefix are equal to **!**
 `!version`
 
 
-
 ## Requirements
 
 * Discord.JS                  ( Version: 13.3.1 )
 * Coingecko-API               ( Version: 1.0.10 )
 * Public Google Sheets Parser ( Version: 1.2.6  )
-
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome.<br />
