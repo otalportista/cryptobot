@@ -65,8 +65,10 @@
 [✔️] -> Add command to list all alerts\
 [✔️] -> Add command to delete alert\
 [✔️] -> Add type of price in command addalert (up/down)\
-[✔️] -> Update information in command help
+[✔️] -> Update information in command help\
 [✔️] -> Solved bug on alerts
+[✔️] -> Integration with local api to get chart
+[✔️] -> Add command to get chart by symbol ( Only accept coins in system )
 
 ## Usage Commands
 For example prefix are equal to **!**
@@ -116,7 +118,6 @@ For example prefix are equal to **!**
 
 ## Suggestions
 [⌛] -> Add command to get list of exchanges\
-[⌛] -> Get charts from tradingview
 
 ## Legend
 [❌] -> Removed from bot\
