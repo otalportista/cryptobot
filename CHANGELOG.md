@@ -1,7 +1,7 @@
 ## 1.0.4 (2021-11-22)
 
 
-* [❌] -> Remove integration with local api with separeted webserver
+* [❌] -> Remove integration with local api with sepaareted webserver
 * [✔️] -> Integrated web server with bot
 * [✔️] -> Integration with api in server integred with bot
 
