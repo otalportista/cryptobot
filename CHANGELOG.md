@@ -1,3 +1,13 @@
+## 1.0.5 (2021-11-25)
+
+
+* [✔️] -> Prevent bot crashes when pair doesnt exists
+* [✔️] -> Give priority to target USDT
+* [✔️] -> If doesnt exists pair output error to user
+* [✔️] -> Add timer before save chart to prevent empty chart
+
+
+
 ## 1.0.4 (2021-11-22)
 
 
