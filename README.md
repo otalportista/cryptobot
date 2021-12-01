@@ -9,7 +9,6 @@
 ## 🆕 Updates
 You can check all updates of bot clicking [here](https://github.com/otalportista/cryptobot/blob/main/CHANGELOG.md)
 
-
 ## 🚀 Usage
 For example prefix are equal to **!**
 * To start bot
@@ -24,6 +23,10 @@ For example prefix are equal to **!**
 
 `!coinlist`
 
+* To get price of specific coin
+
+`!coin <symbol>`
+
 * To add coin
 
 `!add <symbol>`
@@ -35,7 +38,8 @@ For example prefix are equal to **!**
 
 * To list all alerts
 
-`!alertlist`
+`!alertlist <user>`
+>user is optional, only required if you want to list alerts of specific user
 
 * To add alert
 

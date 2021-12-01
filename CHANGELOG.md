@@ -1,3 +1,13 @@
+## 1.0.6 (2021-11-28)
+
+
+* [✔️] -> Be able to see alerts from other users
+* [✔️] -> Embeds messages in one funcion with parameters
+* [✔️] -> Get a price of any coin through the symbol
+* [✔️] -> Updated the chart command to accept any coin
+* [✔️] -> Added default timestamp if user has not inserted one
+
+
 ## 1.0.5 (2021-11-25)
 
 
